@@ -69,9 +69,12 @@ OOP Principles(Encapsulation via private attributes & methods), Input Handling(U
 Data Structures(ArrayList<String> for storing transaction history), User Feedback(Real-time messages confirming actions or errors).
 
 #OUTPUT
-<img width="1919" height="1019" alt="Screenshot 2025-08-04 085429" src="https://github.com/user-attachments/assets/b5aa02b3-e804-4f85-96cc-cada461df1e2" />
-<img width="1919" height="1019" alt="Screenshot 2025-08-04 085429" src="https://github.com/user-attachments/assets/60d521cc-072a-4312-83d6-fa0a5d2566cd" />
-<img width="1919" height="1019" alt="Screenshot 2025-08-04 085345" src="https://github.com/user-attachments/assets/05cf9e5e-fc70-40bf-b0c1-38b4e45ffc0c" />
+<img width="1919" height="1019" alt="Screenshot 2025-08-04 085345" src="https://github.com/user-attachments/assets/994a8b8c-e26d-411a-bb57-0da3afe777ed" />
+<img width="1919" height="1017" alt="Screenshot 2025-08-04 085411" src="https://github.com/user-attachments/assets/c03e762f-28e4-46f8-a021-93b06c3553a3" />
+<img width="1919" height="1019" alt="Screenshot 2025-08-04 085429" src="https://github.com/user-attachments/assets/c5c03355-2f19-45a4-a14d-985f83cdada9" />
+
+
+
 
 
 
