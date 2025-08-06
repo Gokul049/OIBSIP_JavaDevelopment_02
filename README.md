@@ -27,33 +27,33 @@ Java Concepts Used:
 
 🧑‍💼 1. Account Creation
     User inputs:
-      Name
-      Account Number
-      Password
+      Name,
+      Account Number,
+      Password,
       Confirmation message displayed once account is created.
 
 🔐 2. Secure Login
     Users must input:
-      Account Number
-      Password
+      Account Number,
+      Password.
       Access is granted only if credentials match.
 
 💰 3. Deposit
-      Users can deposit any valid amount.
-      Balance is updated accordingly.
+      Users can deposit any valid amount,
+      Balance is updated accordingly,
       Transaction is recorded in history.
 
 🏧 4. Withdraw
-      Withdrawals are allowed only in multiples of 100, 200, or 500.
-      The system checks for sufficient balance.
+      Withdrawals are allowed only in multiples of 100, 200, or 500,
+      The system checks for sufficient balance,
       Balance is updated if valid, else displays error.
 
 💸 5. Fund Transfer
       User enters:
-        Recipient name
-        Recipient account number
-        Amount
-        ransfer is allowed only if balance is sufficient.
+        Recipient name,
+        Recipient account number,
+        Amount,
+        ransfer is allowed only if balance is sufficient,
         Records the transaction in the history.
 
 📜 6. Mini Statement
