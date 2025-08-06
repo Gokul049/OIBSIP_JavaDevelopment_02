@@ -25,45 +25,48 @@ Java Concepts Used:
 
 #📋Features Implemented
 
-🧑‍💼 1. Account Creation
+🧑‍💼 1. Account Creation:
+
     User inputs:
       Name,
       Account Number,
       Password,
       Confirmation message displayed once account is created.
 
-🔐 2. Secure Login
+🔐 2. Secure Login:
+
     Users must input:
       Account Number,
       Password.
       Access is granted only if credentials match.
 
-💰 3. Deposit
+💰 3. Deposit: 
       Users can deposit any valid amount,
       Balance is updated accordingly,
       Transaction is recorded in history.
 
-🏧 4. Withdraw
+🏧 4. Withdraw: 
       Withdrawals are allowed only in multiples of 100, 200, or 500,
       The system checks for sufficient balance,
       Balance is updated if valid, else displays error.
 
-💸 5. Fund Transfer
-      User enters:
+💸 5. Fund Transfer: 
+
+      User enters: 
         Recipient name,
         Recipient account number,
         Amount,
         ransfer is allowed only if balance is sufficient,
         Records the transaction in the history.
 
-📜 6. Mini Statement
+📜 6. Mini Statement: 
       Displays all past transactions in a list.
 
-🚪 7. Exit
+🚪 7. Exit: 
       Allows the user to exit the program safely.
 
 
-#🧠Core Concepts Practiced
+#🧠Core Concepts Practiced: 
 
 OOP Principles(Encapsulation via private attributes & methods), Input Handling(Using Scanner class for user interaction), Condition Checking(Validation of input ranges and choices),
 Data Structures(ArrayList<String> for storing transaction history), User Feedback(Real-time messages confirming actions or errors).
