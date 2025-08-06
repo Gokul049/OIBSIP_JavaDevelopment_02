@@ -1,10 +1,10 @@
-#💳 Project Report: ATM Interface System in Java
+#💳Project Report: ATM Interface System in Java
 
-#🎯 Objective
+#🎯Objective
 
 To simulate a simple ATM banking system using object-oriented principles in Java that allows users to create an account, login securely, deposit money, withdraw cash, transfer funds, and view a mini statement.
 
-#🛠️ Technologies Used
+#🛠️Technologies Used
 
 Programming Language: Java
 
@@ -23,7 +23,8 @@ Java Concepts Used:
       Scanner for user input
 
 
-#📋 Features Implemented
+#📋Features Implemented
+
 🧑‍💼 1. Account Creation
     User inputs:
       Name
@@ -62,10 +63,15 @@ Java Concepts Used:
       Allows the user to exit the program safely.
 
 
-#🧠 Core Concepts Practiced
-Concept	               Description
-OOP Principles	       Encapsulation via private attributes & methods
-Input Handling	       Using Scanner class for user interaction
-Condition Checking	   Validation of input ranges and choices
-Data Structures	       ArrayList<String> for storing transaction history
-User Feedback	         Real-time messages confirming actions or errors
+#🧠Core Concepts Practiced
+
+OOP Principles(Encapsulation via private attributes & methods), Input Handling(Using Scanner class for user interaction), Condition Checking(Validation of input ranges and choices),
+Data Structures(ArrayList<String> for storing transaction history), User Feedback(Real-time messages confirming actions or errors).
+
+#OUTPUT
+<img width="1919" height="1019" alt="Screenshot 2025-08-04 085429" src="https://github.com/user-attachments/assets/b5aa02b3-e804-4f85-96cc-cada461df1e2" />
+<img width="1919" height="1019" alt="Screenshot 2025-08-04 085429" src="https://github.com/user-attachments/assets/60d521cc-072a-4312-83d6-fa0a5d2566cd" />
+<img width="1919" height="1019" alt="Screenshot 2025-08-04 085345" src="https://github.com/user-attachments/assets/05cf9e5e-fc70-40bf-b0c1-38b4e45ffc0c" />
+
+
+
